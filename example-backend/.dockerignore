@@ -1,6 +1,6 @@
-Dockerfile
-.dockerignore
-.gitignore
+#Dockerfile
+#.dockerignore
+#.gitignore
 server
 README.md
-docker-compose.yml
+#docker-compose.yml
